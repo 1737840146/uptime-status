@@ -1,15 +1,18 @@
 window.Config = {
 
   // 显示标题
-  SiteName: 'Public Status',
+  SiteName: 'RYF’s Status',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
   ApiKeys: [
-    'm784488775-dd1ad84b209c05f8e185c33e',
-    'm784490063-7b5da437e7f1e0d67613714d',
-    'm784497419-de55aa09902ccb3ab22d548a',
-    'm784496436-71a4bf7b1e3bdf7756be131b',
+    'm793759909-682ff576ec93b3875cbc1ea3',
+    'm793759918-47389f24c953b6897bef3374',
+    'm793759959-ddbde14324a3b22deedd9bfb',
+    'm793759966-15e14750721deac5920da1d6',
+    'm793759995-5289f4f3fdd91bd4abed25f8',
+    'm793759985-d8ba5f94bd6f612a35752e8f',
+    'm793759930-a488739f66efe9ba9d69e23e',
   ],
 
   // 日志天数
