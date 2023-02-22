@@ -11,6 +11,7 @@ window.Config = {
     'm793759959-ddbde14324a3b22deedd9bfb',  //Wblog
     'm793759966-15e14750721deac5920da1d6',  //htmlyblog
     'm793759995-5289f4f3fdd91bd4abed25f8',  //hexoblog
+    'm793775860-57dd114424e1b6d32ba8c70c',  //qexo
     'm793759985-d8ba5f94bd6f612a35752e8f',  //gpt
     'm793772574-c3734fba018429ee6fbbdb3b',  //nextjs
     'm793759930-a488739f66efe9ba9d69e23e',  //监控
