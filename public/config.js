@@ -15,6 +15,7 @@ window.Config = {
     'm793759985-d8ba5f94bd6f612a35752e8f',  //gpt
     'm793772574-c3734fba018429ee6fbbdb3b',  //nextjs
     'm793759930-a488739f66efe9ba9d69e23e',  //监控
+    'm797674699-d571912e29c0c36e7794ed80',  //geetshareRSS 
   ],
 
   // 日志天数
