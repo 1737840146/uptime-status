@@ -19,7 +19,7 @@ window.Config = {
   Navi: [
     {
       text: 'Homepage',
-      url: 'luer.eu.org'
+      url: 'https://luer.eu.org'
     },
     {
       text: 'GitHub',
